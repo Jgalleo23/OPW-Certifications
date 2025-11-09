@@ -33,7 +33,7 @@ Haz clic en cualquier imagen para ver el certificado PDF completo.
 ### 4. OPW - Análisis forense avanzado en sistemas Linux
 *Manejo de herramientas forenses en Linux enfocadas en volcado de memoria RAM con Lime, instalación de la herramienta Lime y uso de Volatility.*
 
-[![Vista previa de Análisis forense avanzado en Linux](./certifications/preview/1.png)](./certifications/certificado_análisis_forense_avanzado_en_sistemas_linux.pdf)
+[![Vista previa de Análisis forense avanzado en Linux](./certifications/preview/16.png)](./certifications/certificado_análisis_forense_avanzado_en_sistemas_linux.pdf)
 
 ---
 
