@@ -12,7 +12,7 @@ Haz clic en cualquier imagen para ver el certificado PDF completo.
 ### 1. Curso de introducción a la Ciberseguridad
 *Certificación que valida las habilidades básicas en Ciberseguridad como la Ciberseguridad física, lógica y políticas de Ciberseguridad.*
 
-[![Vista previa de Introducción a la Ciberseguridad](./certifications/preview/6.png)](./OPW-Certifications/certifications/certificado_curso_de_introduccion_a_la_ciberseguridad.pdf)
+[![Vista previa de Introducción a la Ciberseguridad](./certifications/preview/6.png)](./certifications/certificado_curso_de_introduccion_a_la_ciberseguridad.pdf)
 
 ---
 
