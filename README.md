@@ -9,24 +9,24 @@ Haz clic en cualquier imagen para ver el certificado PDF completo.
 ## 🚀 Certificaciones Obtenidas
 
 
-### 1. Curso de introducción a la Ciberseguridad
+### 1. OPW - Curso de introducción a la Ciberseguridad
 *Certificación que valida las habilidades básicas en Ciberseguridad como la Ciberseguridad física, lógica y políticas de Ciberseguridad.*
 
 [![Vista previa de Introducción a la Ciberseguridad](./certifications/preview/6.png)](./certifications/certificado_curso_de_introduccion_a_la_ciberseguridad.pdf)
 
 ---
 
-### 2. OPW Certified E-commerce Professional
-*Competencias en la creación, gestión y optimización de tiendas online, experiencia de usuario y estrategias de comercio electrónico.*
+### 2. OPW - Análisis forense avanzado en sistemas Windows
+*Manejo de herramientas forenses en Windows enfocadas en volcado de memoria, clonado de discos y memoria y uso de Volatility.*
 
-[![Vista previa de E-commerce](./certifications/preview/2.png)](./OPW%20Certified%20E-commerce%20Professional.pdf)
+[![Vista previa de Análisis forense avanzado en sistemas Windows](./certifications/preview/7.png)](./certifications/certificado_análisis_forense_avanzado_en_sistemas_windows.pdf)
 
 ---
 
 ### 3. OPW Certified SEO Professional
 *Conocimientos avanzados en optimización para motores de búsqueda (SEO), incluyendo SEO On-Page, Off-Page y técnico.*
 
-[![Vista previa de SEO](./certifications/preview/3.png)](./OPW%20Certified%20SEO%20Professional.pdf)
+[![Vista previa de SEO](./certifications/preview/2.png)](./OPW%20Certified%20SEO%20Professional.pdf)
 
 ---
 
