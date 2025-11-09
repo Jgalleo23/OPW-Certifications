@@ -23,26 +23,33 @@ Haz clic en cualquier imagen para ver el certificado PDF completo.
 
 ---
 
-### 3. OPW Certified SEO Professional
-*Conocimientos avanzados en optimización para motores de búsqueda (SEO), incluyendo SEO On-Page, Off-Page y técnico.*
+### 3. OPW - OSINT para fuga de datos empresariales
+*Conocimientos sobre busqueda de información pública (OSINT) enfocado en la fuga de datos empresariales.*
 
-[![Vista previa de SEO](./certifications/preview/2.png)](./OPW%20Certified%20SEO%20Professional.pdf)
-
----
-
-### 4. OPW Certified Funnel Marketing Professional
-*Habilidades para diseñar, implementar y optimizar embudos de ventas y marketing, desde la captación hasta la conversión.*
-
-[![Vista previa de Funnel Marketing](./certifications/preview/5.png)](./OPW%20Certified%20Funnel%20Marketing%20Professional.pdf)
+[![Vista previa de OSINT para fuga de datos empresariales](./certifications/preview/5.png)](./certifications/certificado_osint_para_fuga_de_datos_empresariales.pdf)
 
 ---
 
-### 5. OPW Certified Email Marketing Professional
-*Experiencia en la planificación, ejecución, automatización y análisis de campañas de email marketing efectivas.*
+### 4. OPW - Análisis forense avanzado en sistemas Linux
+*Manejo de herramientas forenses en Linux enfocadas en volcado de memoria RAM con Lime, instalación de la herramienta Lime y uso de Volatility.*
 
-[![Vista previa de Email Marketing](./certifications/preview/6.png)](./OPW%20Certified%20Email%20Marketing%20Professional.pdf)
+[![Vista previa de Análisis forense avanzado en Linux](./certifications/preview/1.png)](./certifications/certificado_análisis_forense_avanzado_en_sistemas_linux.pdf)
 
 ---
 
-### Licencia
-El contenido de este repositorio está protegido bajo la [Licencia MIT](./LICENSE).
+### 5. OPW - Curso de Hacking Tools: Blue Team
+*Certificación que valida habilidades en el uso de Linux, Metasploit y Python donde podemos destacar el manejo de usuarios, grupos y permisos, ataques a Linux y Windows y uso de librerías y scripts en Python.*
+
+[![Vista previa de Curso de Hacking Tools: Blue Team](./certifications/preview/2.png)](./certifications/certificado_curso_de_hacking_tools__blue_team.pdf)
+
+---
+
+### 6. OPW - Curso de Hacking web
+*Certificación que valida habilidades en el uso de inyecciones de código, manejo de ficheros, robo de sesiones y accesos donde podemos destacar ataques SQLi, XSS, Brute Force y LFI.*
+
+[![Vista previa de Curso de Hacking Tools: Blue Team](./certifications/preview/3.png)](./certifications/certificado_curso_de_hacking_web.pdf)
+
+---
+
+### Derechos
+Todos los derechos reservados al autor.
