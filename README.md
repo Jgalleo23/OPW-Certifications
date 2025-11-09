@@ -1,6 +1,6 @@
 # 📜 Mis Certificaciones Profesionales - OPW
 
-Bienvenido a mi repositorio de certificaciones. Este espacio sirve como un portafolio profesional para alojar y validar las competencias que he adquirido en diversas áreas del marketing digital a través de OPW.
+Bienvenido a mi repositorio de certificaciones. Este espacio sirve como un portafolio profesional para alojar y validar las competencias que he adquirido en diversas áreas de la Ciberseguridad a través de OPW.
 
 Haz clic en cualquier imagen para ver el certificado PDF completo.
 
@@ -8,12 +8,11 @@ Haz clic en cualquier imagen para ver el certificado PDF completo.
 
 ## 🚀 Certificaciones Obtenidas
 
-*(Nota: He asignado las imágenes 1.png, 2.png, 3.png, 5.png y 6.png en orden. ¡Asegúrate de que la imagen correcta corresponde al PDF!)*
 
-### 1. OPW Certified Growth Marketing Professional
-*Certificación que valida las habilidades en estrategias de crecimiento, experimentación y optimización del funn_el de conversión.*
+### 1. Curso de introducción a la Ciberseguridad
+*Certificación que valida las habilidades básicas en Ciberseguridad como la Ciberseguridad física, lógica y políticas de Ciberseguridad.*
 
-[![Vista previa de Growth Marketing](./certifications/preview/1.png)](./OPW%20Certified%20Growth%20Marketing%20Professional.pdf)
+[![Vista previa de Introducción a la Ciberseguridad](./certifications/preview/6.png)](./OPW%20Certified%20Growth%20Marketing%20Professional.pdf)
 
 ---
 
